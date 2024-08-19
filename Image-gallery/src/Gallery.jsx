@@ -47,13 +47,24 @@ const images=[
     {src:"/27.jpg",alt:"27"},
     {src:"/28.jpg",alt:"28"},
     {src:"/29.jpg",alt:"29"},
-    {src:"/30.jpg",alt:"30"},
+    {src:"/30.JPG",alt:"30"},
     {src:"/31.jpg",alt:"31"},
     {src:"/32.jpg",alt:"32"},
     {src:"/33.jpg",alt:"34"},
     {src:"/35.jpg",alt:"35"},
     {src:"/36.jpg",alt:"36"},
-    {src:"/37.jpg",alt:"37"}
+    {src:"/37.jpg",alt:"37"},
+    {src:"/38.jpg",alt:"38"},
+    {src:"/39.JPG",alt:"39"},
+    {src:"/40.jpg",alt:"40"},
+    {src:"/41.jpg",alt:"41"},
+    {src:"/42.jpeg",alt:"42"},
+    {src:"/43.jpg",alt:"43"},
+    {src:"/44.jpg",alt:"44"},
+    {src:"/45.jpg",alt:"45"},
+    {src:"/46.jpg",alt:"46"},
+    {src:"/47.jpg",alt:"47"},
+    {src:"/48.jpg",alt:"48"}
 
 
 ]
